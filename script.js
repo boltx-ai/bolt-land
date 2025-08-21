@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // Typing effect functionality
   // const textToType = "The skilled-labor shortage is pushing manufacturers to their limits. BOLTX is a Physical AI company built to meet that moment. At our core is a multi-modal AI brain, purpose-built for Maintenance, forged from deep manufacturing expertise and the latest advances in AI and robotics.";
   const textToType =
-    "The skilled-labor shortage is pushing manufacturers to their limits. BOLTX is a Physical AI company built to meet that moment. At our core is a multi-modal AI brain leveraging the latest advances in AI and robotics";
+    "The skilled-labor shortage is pushing manufacturers to their limits. BOLTX is a Physical AI company built to meet that moment.";
   const typedTextElement = document.getElementById("typed-text");
   const caretElement = document.getElementById("caret");
   let currentIndex = 0;
